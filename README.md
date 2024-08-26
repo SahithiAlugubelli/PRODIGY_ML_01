@@ -1,1 +1,3 @@
 # PRODIGY_ML_01
+House Price Prediction using Linear Regression
+This project implements a linear regression model to predict house prices based on square footage (GrLivArea), number of bedrooms (BedroomAbvGr), and number of bathrooms (FullBath). The dataset used is from Kaggle's "House Prices - Advanced Regression Techniques" competition. The model is built using Python and libraries like Pandas, NumPy, and scikit-learn. After training, the model's performance is evaluated using Mean Squared Error (MSE) and R-squared metrics. Visualizations, including actual vs. predicted prices and residuals distribution, help in understanding the model's accuracy and fit.
